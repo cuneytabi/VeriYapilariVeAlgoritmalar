@@ -8,7 +8,6 @@
 
 Big O: O(n^2)
 
-
 Time Complexity: 18 sayısı için Average case kapsamına girer  
 ***
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımı;
